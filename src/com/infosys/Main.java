@@ -1,4 +1,4 @@
-package com.infosys;
+gi tpackage com.infosys;
 
 import com.infosys.example1.Sedan;
 import com.infosys.example2.CSProfessor;
